@@ -1,0 +1,60 @@
+body {
+	background-color: rgb(167, 167, 245);
+}
+.fundodado{
+	background-color: gray;
+	position: absolute;
+	top: 10%;
+	left: 40%;
+	width: 370px;
+	height: 160px;
+	border-radius: 15px;
+	padding: 5px;
+
+
+}
+.formulario1{
+     text-align: center;
+     font-size: 18px;
+     font-family: sans-serif;
+     color: black;
+
+
+
+
+}
+.formulario2{
+	text-align: center;
+	font-size: 15px;
+	color: black;
+
+    
+}
+
+button{
+	padding: 1px;
+	border-radius: 9px;
+	color: black;
+	background-color: white;
+	cursor: pointer;
+	font-size: 15px;
+
+}
+
+input{
+	padding: 4px;
+	border-radius: 5px;
+	border: none;
+    outline: none;
+}
+.resultado{
+	background-color: gray;
+	position: absolute;
+	top: 110%;
+	left: 0%;
+	width: 370px;
+	height: 70px;
+	border-radius: 15px;
+	padding: 5px;
+    text-align: center;
+}
